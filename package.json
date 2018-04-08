@@ -4,7 +4,9 @@
   "description": "Тестовое задание",
   "main": "index.js",
   "scripts": {
-    "test": "#"
+    "test": "make test",
+    "dev": "",
+    "build": ""
   },
   "repository": {
     "type": "git",
