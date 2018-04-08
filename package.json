@@ -1,6 +1,6 @@
 {
   "name": "pizza_factory_test",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Тестовое задание",
   "main": "index.js",
   "scripts": {
