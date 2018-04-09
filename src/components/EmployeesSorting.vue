@@ -1,0 +1,3 @@
+<template>
+  Сортировка списка
+</template>
